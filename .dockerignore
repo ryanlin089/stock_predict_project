@@ -1,0 +1,12 @@
+.DS_Store
+.git
+.gitignore
+
+frontend/node_modules
+frontend/.next
+frontend/out
+frontend/.env.local
+
+backend/__pycache__
+backend/services/__pycache__
+backend/.env
